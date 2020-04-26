@@ -5,8 +5,8 @@ def mario
 
   puts phrase
 end
-def toadstool status
-  puts $status
+def toadstool(status)
+  puts status
 end
 def link
   phrase = "it's dangerous to go alone! take this.".capitalize
