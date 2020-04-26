@@ -8,8 +8,10 @@ def toadstool(status)
   puts status
 end
 def link
-  phrase = "it's dangerous to go alone! take this.".titlelize
+  puts phrase = "It's Dangerous To Go Alone! Take This."
+  # puts phrase
 end
+link
 def all_phrases
   mario;
   toadstool;
