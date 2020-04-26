@@ -2,14 +2,13 @@
 def mario
   phrase "It's-a me, Mario!"
   $status
-
   puts phrase
 end
 def toadstool(status)
   puts status
 end
 def link
-  phrase = "it's dangerous to go alone! take this.".capitalize
+  phrase = "it's dangerous to go alone! take this.".titlelize
 end
 def all_phrases
   mario;
