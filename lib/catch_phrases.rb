@@ -3,13 +3,13 @@ def mario
   # status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   # puts phrase
 end
-#mario
+mario
 
 def toadstool
-	status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+	puts status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   # puts status
 end
-#toadstool
+toadstool
 
 def link
   puts phrase = "It's Dangerous To Go Alone! Take This."
